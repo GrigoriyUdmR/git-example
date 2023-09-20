@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.1, 2023-07-01T23:45:21. -->
+<!-- Written by QtCreator 4.13.1, 2023-09-20T14:22:07. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -325,8 +325,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:F:/Qt/MyProject/OBD/OBD2_1/OBD2_1.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">F:/Qt/MyProject/OBD/OBD2_1/OBD2_1.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">OBD2_12</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:F:/Qt/MyProject/OBD/OBD2_1/new-git-proj/git-example/OBD2_1.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">F:/Qt/MyProject/OBD/OBD2_1/new-git-proj/git-example/OBD2_1.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
