@@ -5,4 +5,5 @@ int main(){
     while (n--){
         std::cout << "hello";
     }
+    return 0;
 }
